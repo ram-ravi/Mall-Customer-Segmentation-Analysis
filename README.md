@@ -18,7 +18,7 @@ We can infer one thing that There are few people who earn more than 100 US Dolla
 The most regular customers for the Mall has age around 30-35 years of age. Whereas the the senior citizens age group is the least frequent visitor in the Mall. Youngsters are lesser in umber as compared to the Middle aged people.
 
 
-<img src="https://user-images.githubusercontent.com/64869288/90749576-77b4f900-e288-11ea-87db-2c7a0666c86b.png" width="800" height="350">
+<img src="https://user-images.githubusercontent.com/64869288/90749576-77b4f900-e288-11ea-87db-2c7a0666c86b.png" width="800" height="550">
 
 If you can see the pie chart, it is clear that female gender leads the male count by atleast 56%
 that is a huge gap specially when the population of Males is comparatively higher than females.
