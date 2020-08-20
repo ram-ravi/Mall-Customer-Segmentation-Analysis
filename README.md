@@ -1,10 +1,12 @@
 ## Mall-Customer-Segmentation-Analysis
 <img src="https://images.unsplash.com/photo-1519567241046-7f570eee3ce6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80" width="650" height="350">
 
+This is a Exploratory Data Analysis finding out various findings on the dataset.The 
 
 The andrews curve preserves the means, distance(up to a constant) and variances. 
 
-![andrews curve](https://user-images.githubusercontent.com/64869288/90749071-d8900180-e287-11ea-8d79-c254a2df578e.png | width=100)
+<img src="https://user-images.githubusercontent.com/64869288/90749071-d8900180-e287-11ea-8d79-c254a2df578e.png" width="800" height="350">
+
 
 ![distribution age and annual income](https://user-images.githubusercontent.com/64869288/90749397-42a8a680-e288-11ea-8694-f42f480d0941.png)
 
