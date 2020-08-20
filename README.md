@@ -1,7 +1,7 @@
 ## Mall-Customer-Segmentation-Analysis
 <img src="https://images.unsplash.com/photo-1519567241046-7f570eee3ce6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80" width="650" height="350">
 
-This is a Exploratory Data Analysis on the dataset givis us various nuances on different relationship between the feature variables.The dataset has details like Annual Income, Age, Customer Id, Spending Score (1-100).Lets start with Andrews curve. 
+This is a Exploratory Data Analysis on the dataset giving us various nuances on different relationship between the feature variables.The dataset has details like Annual Income, Age, Customer Id, Spending Score (1-100).Lets start with Andrews curve. 
 
 <img src="https://user-images.githubusercontent.com/64869288/90749071-d8900180-e287-11ea-8d79-c254a2df578e.png" width="800" height="350">
 <br />
@@ -11,11 +11,11 @@ The andrews curve preserves the means, distance(up to a constant) and variances.
 
 <img src="https://user-images.githubusercontent.com/64869288/90749397-42a8a680-e288-11ea-8694-f42f480d0941.png" width="800" height="350">
 
-We can infer one thing that There are few people who earn more than 100 US Dollars. Most of the people have an earning of around 50-75 US Dollars. Also, we can say that the least Income is around 20 US Dollars.
+We can infer that there are few people who earn more than 100 US Dollars. Most of the people have an earning of around 50-75 US Dollars. Also, we can say that the least Income is around 20 US Dollars.
  
 #### Taking inferences about the Customers.
 
-The most regular customers for the Mall has age around 30-35 years of age. Whereas the the senior citizens age group is the least frequent visitor in the Mall. Youngsters are lesser in umber as compared to the Middle aged people.
+The most regular customers for the Mall has age around 30-35 years of age. Whereas the the senior citizens age group is the least frequent visitor in the Mall. Youngsters are lesser in number as compared to the Middle aged people.
 
 
 <img src="https://user-images.githubusercontent.com/64869288/90749576-77b4f900-e288-11ea-87db-2c7a0666c86b.png" width="800" height="550">
@@ -58,7 +58,7 @@ This shows the spending score of male is around 25k to 70k whearas the female ge
 
 <img src="https://user-images.githubusercontent.com/64869288/90750160-4a1c7f80-e289-11ea-822a-9fbefc02906d.png" width="800" height="350">
 
-This is that the male has higher average salary than the female gender, while if you compare lower income, both the gender is almost equal.
+This is explains that the male has higher average salary than the female gender, while if you compare lower income, both the gender is almost equal.
 
 
 <img src="https://user-images.githubusercontent.com/64869288/90750295-71734c80-e289-11ea-870d-2d388e0e3860.png" width="800" height="350">
