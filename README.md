@@ -3,4 +3,4 @@
 
 
 
-![Uploading andrews curve.png…]()
+![andrews curve](https://user-images.githubusercontent.com/64869288/90749071-d8900180-e287-11ea-8d79-c254a2df578e.png)
