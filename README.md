@@ -4,7 +4,7 @@
 
 The andrews curve preserves the means, distance(up to a constant) and variances. 
 
-![andrews curve](https://user-images.githubusercontent.com/64869288/90749071-d8900180-e287-11ea-8d79-c254a2df578e.png)
+![andrews curve](https://user-images.githubusercontent.com/64869288/90749071-d8900180-e287-11ea-8d79-c254a2df578e.png | width=100)
 
 ![distribution age and annual income](https://user-images.githubusercontent.com/64869288/90749397-42a8a680-e288-11ea-8694-f42f480d0941.png)
 
